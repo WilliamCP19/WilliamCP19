@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/william-da-cruz-pires-913450207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="williamcruzpires@alunos.utfpr.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <br>
   [Primeiro site feito por mim em HTML e CSS](http://curiosamentegigante.orgfree.com/SONY.html)
-  <img align="right" alt="EngSoft UTFPR" height="170" style="border-radius:50px;" src="https://www.facebook.com/engenhariadesoftware.utfpr.cp/"> <br><br>
+  <img align="right" alt="EngSoft UTFPR" height="170" style="border-radius:50px;" src="https://m.facebook.com/esuepg/photos/-resultado-do-concurso-de-logotipo-o-aluno-do-segundo-ano-de-engenharia-de-softw/1864094653817033/"> <br><br>
   
   
 ## Tecnologias que já utilizei:
