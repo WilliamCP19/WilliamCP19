@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/william-da-cruz-pires-913450207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="williamcruzpires@alunos.utfpr.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <br>
   [Primeiro site feito por mim em HTML e CSS](http://curiosamentegigante.orgfree.com/SONY.html)
-  <img align="right" alt="EngSoft UTFPR" height="170" style="border-radius:50px;" src="https://scontent.fldb7-1.fna.fbcdn.net/v/t1.18169-9/16473151_1019423414829214_4187315978668115680_n.jpg?_nc_cat=105&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeHXGfJlXd8A_G0vtwmugiCmTrZT3C8rfZxOtlPcLyt9nLpKdjdM1JiuDrYHAjj6rcJMz3LAal6Ihl6BNpmMh57g&_nc_ohc=d8FJ6Urx03YAX-IfYWZ&_nc_ht=scontent.fldb7-1.fna&oh=00_AT-D0eV6XF6ycS2RfznczOBqEagUCSTGjlr-Sc-2UkdnrA&oe=62A137E3"> <br><br>
+  <img align="right" alt="EngSoft UTFPR" height="170" style="border-radius:50px;" src="https://www.facebook.com/engenhariadesoftware.utfpr.cp/"> <br><br>
   
   
 ## Tecnologias que já utilizei:
