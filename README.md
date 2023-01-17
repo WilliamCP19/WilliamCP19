@@ -15,7 +15,8 @@
   <img align="center" alt="Linguagem C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="POO_Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   <img align="center" alt="python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="mysql" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /><br>
+  <img align="center" alt="mysql" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="postgres" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /><br> 
   
   
   <img align="right" alt="software engineer" height="100" style="border-radius:50px;" src="https://play-lh.googleusercontent.com/XUWIAxTuMzOnyJbYq7CZ6UU98f0sw_dSvs-_I3-7kcHRFmVSTI1M2hlU3rREVdonb-Q"> 
