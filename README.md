@@ -26,9 +26,9 @@
   
   <img align="left" alt="Rosa" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/7f/43/19/7f431908180fb8d47ff4a0ffdcb8c67f.jpg">
  
-  <h3> É assim
-  <h3> Não existe uma estrada sequer
-  <h3> Para atravessar
-  <h3> Que não vá sangrar
-  <h3> Nem cansar seus pés.
+  <h5> É assim
+  <h5> Não existe uma estrada sequer
+  <h5> Para atravessar
+  <h5> Que não vá sangrar
+  <h5> Nem cansar seus pés.
   </div>
