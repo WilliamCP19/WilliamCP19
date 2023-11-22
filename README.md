@@ -24,7 +24,7 @@
   <img align="right" alt="software engineer" height="100" style="border-radius:50px;" src="https://play-lh.googleusercontent.com/XUWIAxTuMzOnyJbYq7CZ6UU98f0sw_dSvs-_I3-7kcHRFmVSTI1M2hlU3rREVdonb-Q"> 
    <br> <br>
   
-  <img align="left" alt="Rosa" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/7f/43/19/7f431908180fb8d47ff4a0ffdcb8c67f.jpg">
+  <img align="left" alt="Rosa" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/7f/43/19/7f431908180fb8d47ff4a0ffdcb8c67f.jpg"> <br><br>
  
   <h5> É assim
   <h5> Não existe uma estrada sequer
