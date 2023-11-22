@@ -26,6 +26,9 @@
   
   <img align="left" alt="Rosa" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/7f/43/19/7f431908180fb8d47ff4a0ffdcb8c67f.jpg">
  
-  <h5> Enquanto formos maus aos outros, seremos piores para nós mesmos.
-  <h5> A vida é mais do que um mero poema, ela é real.
+  <h3> É assim
+  <h3> Não existe uma estrada sequer
+  <h3> Para atravessar
+  <h3> Que não vá sangrar
+  <h3> Nem cansar seus pés.
   </div>
