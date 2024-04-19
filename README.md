@@ -20,17 +20,13 @@
   </p>
 
 <div align="left">
-  <img alt="Mercúrio - Guilherme de Sá" width="250"  style="border-radius:50px;" src="https://i.ytimg.com/vi/huR6J4v9aZU/maxresdefault.jpg"> 
+  <img alt="Mercúrio - Guilherme de Sá" width="250" style="border-radius:50px;" src="https://i.ytimg.com/vi/huR6J4v9aZU/maxresdefault.jpg"> 
   
   ### - Guilherme de Sá
   <div style="display: inline-block; vertical-align: top; margin-left: 10px;">
     <h5>Quem busca o que não convém</h5>
     <h5>Perde o que quer e o que tem</h5>
   </div>
-  
-  ##
-  <h5>Uma noite com Vênus</h5>
-  <h5>O resto da vida com mercúrio</h5>
 </div>
 
 
