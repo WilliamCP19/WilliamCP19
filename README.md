@@ -19,14 +19,20 @@
     <img alt="Postgres" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   </p>
 
-<div align="right">
-  <img alt="Mercúrio - Guilherme de Sá" width="250" style="border-radius:50px;" src="https://i.ytimg.com/vi/huR6J4v9aZU/maxresdefault.jpg"> 
-  
-  ### - Guilherme de Sá
-  <div style="display: inline-block; vertical-align: top; margin-left: 10px;">
-    <h5>Quem busca o que não convém</h5>
-    <h5>Perde o que quer e o que tem</h5>
+  <div>
+    <a href="htpps://github.com/WilliamCP19">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WilliamCP19&show_icons=true&theme=dracula&include_all_commit=true&cout_private=true" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCP19&layout=compact&langs_count=16&theme=dracula />
   </div>
+  
+<div align="right">
+  <img align="right" alt="Mercúrio - Guilherme de Sá" width="320" style="border-radius:50px;" src="https://i.ytimg.com/vi/huR6J4v9aZU/maxresdefault.jpg"> 
+  <div align="right" style="display: inline-block; vertical-align: top; margin-left: 10px;">
+
+  ### - Guilherme de Sá
+  <h5>Quem busca o que não convém</h5>
+  <h5>Perde o que quer e o que tem</h5>
+</div>
 </div>
 
 
