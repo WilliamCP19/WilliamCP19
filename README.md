@@ -19,7 +19,7 @@
     <img alt="Postgres" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   </p>
 
-<div align="left">
+<div align="right">
   <img alt="Mercúrio - Guilherme de Sá" width="250" style="border-radius:50px;" src="https://i.ytimg.com/vi/huR6J4v9aZU/maxresdefault.jpg"> 
   
   ### - Guilherme de Sá
