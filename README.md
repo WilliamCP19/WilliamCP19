@@ -20,8 +20,9 @@
   </p>
 
   <div>
-    <a href="htpps://github.com/WilliamCP19">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WilliamCP19&show_icons=true&theme=dracula&include_all_commit=true&cout_private=true" /> 
+    <a href="htpps://github.com/WilliamCP19"> <br>
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamCP19&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
+   <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WilliamCP19&show_icons=true&theme=dracula&include_all_commit=true&cout_private=true" /> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCP19&layout=compact&langs_count=16&theme=dracula />
   </div>
   
